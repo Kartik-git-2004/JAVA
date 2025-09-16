@@ -12,7 +12,7 @@ System.out.println(result);
         
 
         // return -1 if it doesnot exist ..
-        while(s<=e){
+        while(start<=end){
             //find the element 
             int mid  = start +(end-start)/2;
 
