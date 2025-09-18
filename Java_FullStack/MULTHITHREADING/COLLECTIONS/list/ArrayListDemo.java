@@ -1,10 +1,10 @@
-package CollectionDemo;
+// package CollectionDemo;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ArrayListDemo {
+ class ArrayListDemo {
     public static void main(String[] args) {
         //order
         //duplicate
